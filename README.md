@@ -9,6 +9,9 @@
     <a href="https://tawsifrm.netlify.app/" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-orange?style=for-the-badge" alt="Portfolio Badge"/>
     </a>
+    <a href="mailto:tawsifmayaz@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/Email-red?style=for-the-badge" alt="Email Badge"/>
+    </a>
   </div>
   <h1>
     Hey there
