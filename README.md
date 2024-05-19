@@ -19,15 +19,15 @@
   </h1>
 </div>
 
+---
 
-
-👨‍💻 **About Me:**
+### 👨‍💻 About Me:
 I'm a passionate self-taught developer and started studying at the University of Waterloo in Fall 2023. I'm enrolled in Electrical Engineering and a part of Waterloo's esteemed co-op program.
 
-🌟 **Fun Fact:**
+### 🌟 Fun Fact:
 My childhood nostalgia runs deep, manifesting in my love for collecting Funko Pops and Legos that are suited to my interests like anime, superheroes, and sports. You can say I'm still a kid at heart!
 
-⚙️ **Interests:**
+### ⚙️ Interests:
 - Machine Learning and AI
 - Web Development
 - Firmware
@@ -38,7 +38,7 @@ My childhood nostalgia runs deep, manifesting in my love for collecting Funko Po
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### 🛠️ Languages and Tools:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width="50" height="50"/>&nbsp;
@@ -61,8 +61,15 @@ My childhood nostalgia runs deep, manifesting in my love for collecting Funko Po
 
 ---
 
-### 📊: My Stats :
+### 📊 My Stats:
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=tawsifrm&theme=dark&background=000000" alt="GitHub Streak"/>
+  </a>
+  <br/>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tawsifrm&layout=compact&theme=vision-friendly-dark" alt="Top Langs"/>
+  </a>
+</div>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tawsifrm&theme=dark&background=000000)](https://git.io/streak-stats)
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tawsifrm&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
