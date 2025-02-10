@@ -22,7 +22,7 @@
 ---
 
 ### 👨‍💻 About Me:
-I'm a passionate self-taught developer and started studying at the University of Waterloo in Fall 2023. I'm enrolled in Electrical Engineering and a part of Waterloo's esteemed co-op program.
+I'm a passionate self-taught developer and started studying at the University of Waterloo in Fall 2023. I'm enrolled in Computer Engineering and a part of Waterloo's esteemed co-op program.
 
 ### 🌟 Fun Fact:
 My childhood nostalgia runs deep, manifesting in my love for collecting Funko Pops and Legos that are suited to my interests like anime, superheroes, and sports. You can say I'm still a kid at heart!
